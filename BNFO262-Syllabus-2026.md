@@ -19,8 +19,7 @@ BNFO262/BGGN237/BIOM262 is designed to teach experimental and analytical approac
 
 ### Lecturers
 As each module is taught by a separate lecturer, their contact information is provided in the syllabus table:
-
-<img width="1306" alt="Syllabus table" src="https://github.com/user-attachments/assets/3e9bcb20-8dbd-44d5-9802-6ff24157be76" />
+<img width="1064" height="461" alt="bnfo262-schedule" src="https://github.com/user-attachments/assets/2a83e3f0-2286-4d0f-aa3b-5b228292e9f9" />
 
 > :warning: **Note:** We will be using Piazza as our primary method of communication for this course!<br>You can join using the link sent out in our first Canvas announcement.
 
@@ -29,7 +28,7 @@ Students should have at least an introductory knowledge of genetics, so classes 
 
 In addition, it is **absolutely crucial** that students have at least some introductory experience with a programming language, preferably R or python. During the first week of class, we will review R, python, and bash. But after the first week, we'll immediately dive into complex usage of all three. Thus, the first week should serve more as a review than a comprehensive tutorial.
 
-Take a look at [our course material from last year](https://github.com/biom262/bnfo262-2024) to gauge the level of programming experience required. If you think you might need to refresh yourself, here are some resources:
+Take a look at [our course material from last year](https://github.com/biom262/bnfo262-2025) to gauge the level of programming experience required. If you think you might need to refresh yourself, here are some resources:
 - [A book introducing R for data scientists](https://r4ds.had.co.nz/)
 - [A crash-course book for python](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
