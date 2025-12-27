@@ -54,7 +54,7 @@ We'll be using Gradescope for submitting the homework assignments, as well as th
 
 1. Navigate to the Gradescope Website at https://www.gradescope.com/
 2. Select the link in the header to "Sign Up", and then select the option to sign up as a "Student"
-3. Enter the following Course Entry Code: **``**
+3. Enter the following Course Entry Code: **`5DKJRJ`**
 4. Input your Full Name, UCSD Email, and UCSD Student ID (should be A#######);
 **Note: If you are auditing the course, please enter AUDITOR as your Student ID**
 5. Select "Sign up as Student" to complete the sign-up process, and then check the email you have provided for the link to set your password and log in information
