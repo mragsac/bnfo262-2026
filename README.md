@@ -25,7 +25,7 @@ You can access the lecture videos for the 2026 quarter through "Media Gallery" o
 
 ## Course Schedule 
 
-| Week | Starting Date | Topic                                                                                    | Lecturer(s)                                  |  DataHub Environment   |  Homework Released                         |
+| Week | Starting Date | Topic                                                                                    | Lecturer(s)                                  |  DataHub Environment   |  Homework Released               |
 |------|---------------|------------------------------------------------------------------------------------------|----------------------------------------------|------------------------|--------------------------------------------|
 | 1    | Jan 6         | **[Module 1](module-1-programming):** Programming Basics in Python, UNIX, and R          | TAs                                          |programming-R           | None                                       |
 | 2    | Jan 13        | **[Module 2](module-2-statistics):** Introduction to Statistics                          | Michelle Ragsac                              |stats                   | None                                       |
@@ -36,8 +36,8 @@ You can access the lecture videos for the 2026 quarter through "Media Gallery" o
 | 7    | Feb 17        | **[Module 7](module-7-variantcalling):** Variant Calling                                 | Kyle Gaulton                                 |variant_calling         | None                                       |
 | 8    | Feb 24        | **[Module 8](module-8-gwas):** Genome-Wide Association Studies (GWAS) and QTL mapping    | Michelle Ragsac                              |gwas                    | [Homework 3](Homeworks/Homework3) (due 3/5 **9 am**)             |
 | 9    | Mar 3         | **[Module 9](module-9-ecDNA):** ecDNA | Vineet Bafna |ecDNA | None                                       |
-| 10   | Mar 10        | **[Module 10](module-10-network):** Network Biology                                      | Hannah Carter                                |networks                | None                                       |
-| 11   | Mar 19        | <i>Finals Week</i>                                                                       | -                                            |-                       | **Take-Home Final** (due 3/19 at 11:59 pm)|
+| 10   | Mar 10        | **[Module 10](module-10-network):** Network Biology                                      | Hannah Carter                                |networks                | **Take-Home Final** (due 3/19 at 11:59 pm)                                       |
+| 11   | Mar 19        | <i>Finals Week</i>                                                                       | -                                            |-                       | - |
 
 
 
