@@ -42,7 +42,7 @@ Lecture recordings will be posted in Canvas after class (there may be a slight d
 Slides for each lecture will be attached to a README.md file within each module folder.
 
 ## When are office hours?
-Office hours usually take place via Zoom starting week 2 (01/27/26). The Zoom link will be shared internally with the class on Canvas!
+Office hours usually take place via Zoom starting week 2. The Zoom link will be shared internally with the class on Canvas!
 
 
 ## Where can I access assignments?
@@ -67,7 +67,7 @@ Homework will be assigned on Thursdays and due on the following Thursday through
   * Submission via Gradescope on **02/19/26** by 9:00 AM PST
 * **Final Examination:**
   * Released on **03/12/26**
-  * Submission via Gradescope on **03/19/26** by 11:59 PM PST
+  * Submission via Gradescope on **03/19/26** by 9:00 AM PST
 
 ### What's the policy on late submissions?
 If for whatever reason you cannot deliver an assignment by its associated due date, you should inform the course instructor and TAs at least a day before the due date. **For each late submission 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.**
