@@ -1,4 +1,12 @@
 
 # pixi environments
+pixi.lock
+pixi.toml
 .pixi
 *.egg-info
+
+# jupyter notebooks
+.ipynb_checkpoints
+
+# vs code settings
+.vscode
