@@ -1,4 +1,4 @@
-# BIOM 262: Introduction to Statisics, Day 1/2 (*Ad Hoc Lecture Notes*)
+# BNFO 262: Introduction to Statisics, Day 1/2 (*Ad Hoc Lecture Notes*)
 
 **Author**: Michelle Franc Ragsac (mragsac@ucsd.edu)
 
